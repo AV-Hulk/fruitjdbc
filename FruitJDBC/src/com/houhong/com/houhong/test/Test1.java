@@ -37,6 +37,7 @@ public class Test1 {
         System.out.println("master git4");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("master ssh push");
 
 
         if (count > 0) {
