@@ -32,6 +32,8 @@ public class Test1 {
 
         int count = runner.update(conn,sql,"火龙果",3.2,20,3.2*20);
 
+        System.out.println("hello git!");
+
         if (count > 0) {
 
             System.out.println("成功修改了：" + count + "记录；");
