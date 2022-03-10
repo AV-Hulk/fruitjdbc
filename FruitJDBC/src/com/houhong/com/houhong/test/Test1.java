@@ -33,6 +33,7 @@ public class Test1 {
         int count = runner.update(conn,sql,"火龙果",3.2,20,3.2*20);
 
         System.out.println("hello git!");
+        System.out.println("hello git3");
 
         if (count > 0) {
 
