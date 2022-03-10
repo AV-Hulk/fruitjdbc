@@ -35,6 +35,7 @@ public class Test1 {
         System.out.println("hello git!");
         System.out.println("hello git3");
         System.out.println("master git4");
+        System.out.println("hot-fix test");
 
 
         if (count > 0) {
