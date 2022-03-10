@@ -16,8 +16,5 @@ hello git! hello worldld!!!!
 hello git! hello worldld!!!!
 hello git! hello worldld!!!!
 hello git! hello worldld!!!!
-add hot-fix
-1 modi master
-utfdfdfdffdfdfdfdfdfdfdfdff
-utfdfdfdffdfdfdfdfdfdfdfdff
-utfdfdfdffdfdfdfdfdfdfdfdff
+1 modifi master
+2 modifi hot-fix
